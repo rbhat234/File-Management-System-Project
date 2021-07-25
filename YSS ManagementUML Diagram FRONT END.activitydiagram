@@ -1,0 +1,578 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<activityRootModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" xmlns:dm9="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="4303ccf0-ebc9-486c-b06d-6ed16b32aa7e" name="YSS ManagementUML Diagram" linkedPackageId="21f08a0b-0617-4dc2-b844-c167ab4c6d84" xmlns="http://schemas.microsoft.com/VisualStudio/TeamArchitect/ActivityDesigner">
+  <profileInstances>
+    <packageHasProfileInstances Id="0eae9b91-7b36-4d22-b065-4622d859467a">
+      <profileInstance Id="538808c4-13e0-400f-b538-96c27899860d" name="StandardProfileL2">
+        <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+      </profileInstance>
+      <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="a7ec408c-69b9-4b3e-8561-d8248118c11a">
+      <profileInstance Id="263c0950-3240-47e4-99d5-1ae74d989a49" name="StandardProfileL3">
+        <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+      </profileInstance>
+      <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <activityRootModelHasActivity>
+      <activity Id="fd4684be-994c-4b44-a2a8-7612e9697939" name="YSS ManagementUML Diagram" isAbstract="false" isLeaf="false" isActiveClass="false" isReentrant="false" isReadOnly="false" isSingleExecution="false">
+        <elementDefinition Id="82eef666-73f4-444c-9724-7142571d13e3" />
+        <nodes>
+          <objectNode Id="de8e2d06-f1da-41d0-a6b1-abd1a85d5b48" name="Y.S.S Management" isLeaf="false" ordering="Unordered" isControlType="false">
+            <elementDefinition Id="da2e2575-433a-4aad-b5a0-e635b104e819" />
+            <objectFlowTargets>
+              <objectFlow Id="ada5d587-225a-4112-8f0b-9c5b65f5f24e" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="d669b8b3-8755-4e5f-a22a-aa267b5a71dd" LastKnownName="ADMINISTRATOR LOGIN" />
+                <elementDefinition Id="9399e124-b463-4d80-baad-b14918ea4168" />
+              </objectFlow>
+              <objectFlow Id="e147c7f0-3906-4fa6-8ff2-b141b33b794d" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="a3ecaff0-cf1f-428c-be8e-2072190d231a" LastKnownName="ACCOUNTANT LOGIN" />
+                <elementDefinition Id="02a85c5b-0aae-421d-b8c0-973df251880e" />
+              </objectFlow>
+              <objectFlow Id="de57dbfb-4fa7-46bc-91ce-d31135d55ba9" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="5f24f435-0cae-419e-9ba9-f256688d2075" LastKnownName="CASHIER LOGIN" />
+                <elementDefinition Id="a09bbb83-c2a0-4096-a528-1e433ddcbcf8" />
+              </objectFlow>
+              <objectFlow Id="297ab5d7-21f9-4605-afcf-0150d5b1e35c" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="5681f735-2304-45fe-8a5d-6de68788317b" LastKnownName="HELP" />
+                <elementDefinition Id="71d46ec7-a434-4fd4-bfaf-cd08feb17d02" />
+              </objectFlow>
+              <objectFlow Id="a5be22c7-baf5-43a5-9dc7-9c3a0dcfb29f" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="eed44f03-f81a-4497-8020-e3d11ca0fdc8" LastKnownName="ABOUT" />
+                <elementDefinition Id="b12d50b7-aef1-4700-8b05-dc5059d05160" />
+              </objectFlow>
+            </objectFlowTargets>
+            <upperBound>
+              <literalInteger Id="ab5b1b5c-d25a-4cc4-aec4-d5d9480f879a" name="2147483647" value="2147483647">
+                <elementDefinition Id="a9ff98de-e4f2-47bb-afc3-6161b31d516f" />
+              </literalInteger>
+            </upperBound>
+          </objectNode>
+          <objectNode Id="a3ecaff0-cf1f-428c-be8e-2072190d231a" name="ACCOUNTANT LOGIN" isLeaf="false" ordering="Unordered" isControlType="false">
+            <elementDefinition Id="7802a9d5-4c9f-4681-99b6-6e8950b09844" />
+            <objectFlowTargets>
+              <objectFlow Id="dff29c83-f12b-40f3-85dd-6fa5b014cbb4" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <decisionNodeMoniker Id="9f9775f9-e54e-44d6-9a6d-365cc016ade0" LastKnownName="Decision1" />
+                <elementDefinition Id="27428683-13b7-49f5-9175-fbae62ead7e4" />
+              </objectFlow>
+              <objectFlow Id="bdd833ba-fc99-473b-9cc0-06613e3698a7" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="3580cae8-84d0-4107-b116-2789cf0dc9dc" LastKnownName="Sign Up" />
+                <elementDefinition Id="40f74b84-b574-4515-a1d7-72c6b94f252e" />
+              </objectFlow>
+            </objectFlowTargets>
+            <upperBound>
+              <literalInteger Id="355be48b-93c7-413c-955c-308b739b0991" name="2147483647" value="2147483647">
+                <elementDefinition Id="d8daccb0-8996-4613-997b-20ae0e469ba6" />
+              </literalInteger>
+            </upperBound>
+          </objectNode>
+          <objectNode Id="d669b8b3-8755-4e5f-a22a-aa267b5a71dd" name="ADMINISTRATOR LOGIN" isLeaf="false" ordering="Unordered" isControlType="false">
+            <elementDefinition Id="48d40cd8-1be0-4e27-b51e-da0bcf9c886c" />
+            <objectFlowTargets>
+              <objectFlow Id="ed468b3b-0bf3-45e6-9486-1a3356a99344" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <decisionNodeMoniker Id="a2788b1a-cccd-4a64-907f-c730a6dbc871" LastKnownName="Decision2" />
+                <elementDefinition Id="e0e55b16-9510-4a1e-b9ac-8b4c12bff010" />
+              </objectFlow>
+              <objectFlow Id="b8673a1a-168a-4419-bf47-b15b19b2284b" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="3580cae8-84d0-4107-b116-2789cf0dc9dc" LastKnownName="Sign Up" />
+                <elementDefinition Id="40355b34-4bc5-45b0-b81c-7fa60ab95647" />
+              </objectFlow>
+            </objectFlowTargets>
+            <upperBound>
+              <literalInteger Id="3c8667d2-d45b-4ee5-9769-398b43edc7c0" name="2147483647" value="2147483647">
+                <elementDefinition Id="ad51f4f2-b290-4c46-bb0e-be5cb18f9c69" />
+              </literalInteger>
+            </upperBound>
+          </objectNode>
+          <objectNode Id="5f24f435-0cae-419e-9ba9-f256688d2075" name="CASHIER LOGIN" isLeaf="false" ordering="Unordered" isControlType="false">
+            <elementDefinition Id="df0882b1-3de0-481f-9d3d-0220914133ec" />
+            <objectFlowTargets>
+              <objectFlow Id="69e11797-ab4b-47fc-ad71-fd8e16fc219b" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <decisionNodeMoniker Id="2fa229f5-710a-4da6-a3e4-4614a621da36" LastKnownName="Decision3" />
+                <elementDefinition Id="2913072e-118a-45b7-9714-82db00e5a2e6" />
+              </objectFlow>
+              <objectFlow Id="67f9b493-033d-4eec-bbaa-cfd7e853f292" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="3580cae8-84d0-4107-b116-2789cf0dc9dc" LastKnownName="Sign Up" />
+                <elementDefinition Id="833ebe0c-d214-45b3-be4e-7811f7cd8c54" />
+              </objectFlow>
+            </objectFlowTargets>
+            <upperBound>
+              <literalInteger Id="36d3adb4-6bb3-462c-a7a8-6c2666f100a8" name="2147483647" value="2147483647">
+                <elementDefinition Id="5fd2e7d3-1d70-4ef2-8cda-2dd4d143f742" />
+              </literalInteger>
+            </upperBound>
+          </objectNode>
+          <objectNode Id="5681f735-2304-45fe-8a5d-6de68788317b" name="HELP" isLeaf="false" ordering="Unordered" isControlType="false">
+            <elementDefinition Id="f0636f5f-efd6-4d55-bbae-567b68ed45c7" />
+            <upperBound>
+              <literalInteger Id="9fc8d706-9f61-407e-97a9-afdf51d0d006" name="2147483647" value="2147483647">
+                <elementDefinition Id="f633d630-f3dd-4b2e-9026-84e0036b8e2b" />
+              </literalInteger>
+            </upperBound>
+          </objectNode>
+          <objectNode Id="eed44f03-f81a-4497-8020-e3d11ca0fdc8" name="ABOUT" isLeaf="false" ordering="Unordered" isControlType="false">
+            <elementDefinition Id="72d7e6f0-0a94-458e-9f15-154421da77bf" />
+            <upperBound>
+              <literalInteger Id="adae4d3a-e8e7-4ec5-8da4-8564625777b6" name="2147483647" value="2147483647">
+                <elementDefinition Id="7addd47f-a8fa-47a6-8fd4-c6e953d5cdaa" />
+              </literalInteger>
+            </upperBound>
+          </objectNode>
+          <objectNode Id="90fa0621-d984-4518-80b1-82dd74bc94e0" name="Member Record" isLeaf="false" ordering="Unordered" isControlType="false">
+            <elementDefinition Id="b9d08f1e-6b47-4a26-a64e-807a0fc10853" />
+            <objectFlowTargets>
+              <objectFlow Id="0319288a-5ee8-46e6-b7a5-04b98affe101" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="f88a133e-5441-4393-b5b9-c8ef739f2fbf" LastKnownName="Add New Member" />
+                <elementDefinition Id="a0c96eab-fae2-4c69-865a-6b7843696f9f" />
+              </objectFlow>
+              <objectFlow Id="c6ddf35d-9b27-4b3d-9775-bbe08d1b1de7" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="0470b25f-02b3-4229-a747-fc42b4196b21" LastKnownName="View all Members" />
+                <elementDefinition Id="fdba18c6-f00e-4881-92fa-1a9d97d8c0fa" />
+              </objectFlow>
+              <objectFlow Id="b0f52c79-897e-4bc3-8909-52023c52d2bc" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="6fad1a98-916e-438e-aa43-4f95d265ca57" LastKnownName="Manage Records" />
+                <elementDefinition Id="56b4bc1e-0944-45d4-bd22-ba76e15184b8" />
+              </objectFlow>
+            </objectFlowTargets>
+            <upperBound>
+              <literalInteger Id="46f615fa-bead-4aba-b696-c394dcf03a29" name="2147483647" value="2147483647">
+                <elementDefinition Id="5a07b65e-e66e-40f2-9ec9-7841b7df9f5b" />
+              </literalInteger>
+            </upperBound>
+          </objectNode>
+          <objectNode Id="094fbf95-5c6a-45da-a4e7-77002cbd9ab5" name="Event Organiser" isLeaf="false" ordering="Unordered" isControlType="false">
+            <elementDefinition Id="a76e9f47-e474-4c01-b8ca-d1fb0c796599" />
+            <objectFlowTargets>
+              <objectFlow Id="85e43a16-daba-4c91-a110-ae8ed15eb7d9" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="d7e75b74-7fbe-4ee0-b505-e44567ab518c" LastKnownName="Add Event" />
+                <elementDefinition Id="7308b800-0927-4190-9b23-f77a85cffd5d" />
+              </objectFlow>
+              <objectFlow Id="57e609f1-f0ab-4c49-a5cf-82e23eecdb25" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="c7760cf9-52a1-402b-8711-d8fea9dd9638" LastKnownName="View event" />
+                <elementDefinition Id="95dc27d2-a26d-4ce4-806a-72c1671bbc81" />
+              </objectFlow>
+              <objectFlow Id="5636d6ce-5e85-4a92-a68d-163dbbe5b81d" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="d7f4209f-8917-45f8-8c96-d390ac6fd396" LastKnownName="Manage Event" />
+                <elementDefinition Id="f1e81956-09f0-49ce-a5c9-c6d2929a9b7a" />
+              </objectFlow>
+            </objectFlowTargets>
+            <upperBound>
+              <literalInteger Id="d323e46b-2e04-4aeb-b4c8-1d597f730c77" name="2147483647" value="2147483647">
+                <elementDefinition Id="1439ddff-f6f0-4c9d-a5ca-b1688053e29d" />
+              </literalInteger>
+            </upperBound>
+          </objectNode>
+          <objectNode Id="fbd1801e-22ab-4463-8147-49c45dcd08bf" name="View Accountant" isLeaf="false" ordering="Unordered" isControlType="false">
+            <elementDefinition Id="df3ac44e-2613-46e4-82b1-baf161e3f24a" />
+            <objectFlowTargets>
+              <objectFlow Id="d5997c21-f573-48e8-857c-41b7eb4e0d05" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="e89e0427-2ab3-4e97-b178-f21b9b0f6365" LastKnownName="Balance Sheet" />
+                <elementDefinition Id="2ab0000e-b50c-4d48-97f8-68399469a719" />
+              </objectFlow>
+              <objectFlow Id="6b89d4d5-f49e-45fe-87c7-e44997e95c38" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="2892fdff-3f12-4d0f-9417-9a89fa3a8f6b" LastKnownName="Cash Report" />
+                <elementDefinition Id="43154269-ec28-4803-ac5a-f4455a35b24b" />
+              </objectFlow>
+              <objectFlow Id="0a8932e4-8660-4c28-953f-11a63a15190d" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="0ac3a054-35c3-42bb-a034-024b0d9f2ea1" LastKnownName="Export Report" />
+                <elementDefinition Id="a0fc4da2-05aa-4cbc-9c79-467f6f7b04e2" />
+              </objectFlow>
+            </objectFlowTargets>
+            <upperBound>
+              <literalInteger Id="96ff2ee6-f9b4-4941-a849-16b96bd209bd" name="2147483647" value="2147483647">
+                <elementDefinition Id="f295a17e-5d63-4f72-b356-4e5f28825316" />
+              </literalInteger>
+            </upperBound>
+          </objectNode>
+          <objectNode Id="ff57b130-676a-4283-a618-f0c2e26d17ce" name="View Cashier" isLeaf="false" ordering="Unordered" isControlType="false">
+            <elementDefinition Id="f6785650-c502-4bd3-827b-818309c7e08c" />
+            <objectFlowTargets>
+              <objectFlow Id="8d873a0d-1fc8-4420-916f-51fa57262458" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="0197319f-0c5f-4e16-9395-3bbe857f4be0" LastKnownName="Receipt Records" />
+                <elementDefinition Id="761fc8ed-05da-420d-b76b-850413a2bc2b" />
+              </objectFlow>
+              <objectFlow Id="6162f459-f6c5-4b08-8d69-2f1a783e57da" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="07bcbe90-f5fc-46c0-a82c-71ea5f81cc00" LastKnownName="Export Report" />
+                <elementDefinition Id="a89bea8d-6392-4bf7-9a02-9f7e5d44c019" />
+              </objectFlow>
+            </objectFlowTargets>
+            <upperBound>
+              <literalInteger Id="3b377a59-3fb2-420f-aa68-c1e55353eca6" name="2147483647" value="2147483647">
+                <elementDefinition Id="7540ffeb-fcf4-40e4-9641-e2e3f87d010f" />
+              </literalInteger>
+            </upperBound>
+          </objectNode>
+          <objectNode Id="f88a133e-5441-4393-b5b9-c8ef739f2fbf" name="Add New Member" isLeaf="false" ordering="Unordered" isControlType="false">
+            <elementDefinition Id="80723282-7353-4ed1-8749-d8267a8d7749" />
+            <upperBound>
+              <literalInteger Id="a8b44443-f50d-4cdb-b366-d498497dd1bb" name="2147483647" value="2147483647">
+                <elementDefinition Id="2940f3fd-f6e6-419d-9716-9d08c83521d2" />
+              </literalInteger>
+            </upperBound>
+          </objectNode>
+          <objectNode Id="0470b25f-02b3-4229-a747-fc42b4196b21" name="View all Members" isLeaf="false" ordering="Unordered" isControlType="false">
+            <elementDefinition Id="31f603be-04c3-432f-b4a5-12d245e04b45" />
+            <upperBound>
+              <literalInteger Id="29a72c2f-f0e4-472e-a7f1-26046a3e8f96" name="2147483647" value="2147483647">
+                <elementDefinition Id="d43cd101-83d3-463e-be1f-ccb297141a66" />
+              </literalInteger>
+            </upperBound>
+          </objectNode>
+          <objectNode Id="6fad1a98-916e-438e-aa43-4f95d265ca57" name="Manage Records" isLeaf="false" ordering="Unordered" isControlType="false">
+            <elementDefinition Id="0d467a10-9d4d-44bd-8618-7a5ac3fd1380" />
+            <upperBound>
+              <literalInteger Id="57144522-fecd-4746-a38f-b2087a42d29c" name="2147483647" value="2147483647">
+                <elementDefinition Id="98b5e900-0733-4fd0-b5d5-710d19e8dcbd" />
+              </literalInteger>
+            </upperBound>
+          </objectNode>
+          <objectNode Id="e89e0427-2ab3-4e97-b178-f21b9b0f6365" name="Balance Sheet" isLeaf="false" ordering="Unordered" isControlType="false">
+            <elementDefinition Id="2948086e-2ee0-46e5-bbad-ed147aca87d2" />
+            <upperBound>
+              <literalInteger Id="c2174f9c-8c85-4d0f-84a3-54867542133d" name="2147483647" value="2147483647">
+                <elementDefinition Id="c3b60222-d580-4265-9acd-025670a5f978" />
+              </literalInteger>
+            </upperBound>
+          </objectNode>
+          <objectNode Id="2892fdff-3f12-4d0f-9417-9a89fa3a8f6b" name="Cash Report" isLeaf="false" ordering="Unordered" isControlType="false">
+            <elementDefinition Id="39f55079-caca-4690-855d-0acc377ca644" />
+            <upperBound>
+              <literalInteger Id="ce879563-181d-4ead-91ff-a82f407a0ba2" name="2147483647" value="2147483647">
+                <elementDefinition Id="8d778ab5-518a-4e78-ab8e-e84a9a5f4e21" />
+              </literalInteger>
+            </upperBound>
+          </objectNode>
+          <objectNode Id="0ac3a054-35c3-42bb-a034-024b0d9f2ea1" name="Export Report" isLeaf="false" ordering="Unordered" isControlType="false">
+            <elementDefinition Id="c02c1253-73d1-4120-af3e-a9608d72dae8" />
+            <upperBound>
+              <literalInteger Id="f4c9595e-b077-4a15-8bfe-04c88ffaa049" name="2147483647" value="2147483647">
+                <elementDefinition Id="977a32e6-9d34-4ce7-8daa-92b9aab6254e" />
+              </literalInteger>
+            </upperBound>
+          </objectNode>
+          <objectNode Id="0197319f-0c5f-4e16-9395-3bbe857f4be0" name="Receipt Records" isLeaf="false" ordering="Unordered" isControlType="false">
+            <elementDefinition Id="5b39f275-8223-4f9b-85d2-61aa608b2fcd" />
+            <objectFlowTargets>
+              <objectFlow Id="1e270d74-d458-4c92-b41c-30765b5b2505" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="46bd5225-f49e-43f7-9d1d-63b9a8fee768" LastKnownName="Contribution" />
+                <elementDefinition Id="b1697e47-d260-4a93-9dff-2d0a05a15573" />
+              </objectFlow>
+              <objectFlow Id="28eb0846-14a5-4b5a-a6f6-01c3ae24c47b" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="b768dae5-6215-40eb-b767-867fa04f426c" LastKnownName="Expenses" />
+                <elementDefinition Id="a9aa22f6-fea7-4aef-aa80-180e5afd0dd9" />
+              </objectFlow>
+              <objectFlow Id="1cdd86e8-84e4-4bed-b7f3-d2c77ce67069" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="0f10105c-9277-471c-94d9-a93be9d75790" LastKnownName="Receipt Records" />
+                <elementDefinition Id="5c25af8f-0a53-416f-989b-28adcb6d0c62" />
+              </objectFlow>
+            </objectFlowTargets>
+            <upperBound>
+              <literalInteger Id="a5e10e37-d8d0-4c06-ba61-7a4a2dea5740" name="2147483647" value="2147483647">
+                <elementDefinition Id="ecaa43ed-b1bb-4f79-a1e7-3b285a6d675c" />
+              </literalInteger>
+            </upperBound>
+          </objectNode>
+          <objectNode Id="07bcbe90-f5fc-46c0-a82c-71ea5f81cc00" name="Export Report" isLeaf="false" ordering="Unordered" isControlType="false">
+            <elementDefinition Id="b4ba6957-218a-49db-ad4c-012132680e6a" />
+            <objectFlowTargets>
+              <objectFlow Id="2754bf27-825d-4177-a528-2b4aa091b797" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="acd0ae87-9872-4eac-b06c-eb12c988398d" LastKnownName="All Records" />
+                <elementDefinition Id="c28f116d-3e27-4d19-81e4-ce4ac6e2a985" />
+              </objectFlow>
+              <objectFlow Id="08b7a11a-4dfe-4369-aacc-8e60b780d883" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="773d1e8a-d321-4c41-b94d-0effd6081f58" LastKnownName="Contribution Record" />
+                <elementDefinition Id="2da0fc08-aa3e-468e-9241-0cff4e9105a3" />
+              </objectFlow>
+              <objectFlow Id="e764614d-4f52-4543-bb9c-5eec90de84b5" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="86e85d23-7466-473f-8bfe-c281d17ff44a" LastKnownName="Expenses Record" />
+                <elementDefinition Id="759ec013-8518-4970-8345-10a66efd4105" />
+              </objectFlow>
+            </objectFlowTargets>
+            <upperBound>
+              <literalInteger Id="47fa643b-687b-4413-b3ac-06f7daceeb02" name="2147483647" value="2147483647">
+                <elementDefinition Id="a6066f62-4726-4e89-aea2-8ba212d5a3e9" />
+              </literalInteger>
+            </upperBound>
+          </objectNode>
+          <objectNode Id="46bd5225-f49e-43f7-9d1d-63b9a8fee768" name="Contribution" isLeaf="false" ordering="Unordered" isControlType="false">
+            <elementDefinition Id="eea4e701-01be-4fcb-87ea-5c55d60f726d" />
+            <upperBound>
+              <literalInteger Id="9b9e83aa-6816-452f-aec0-1ffa544f0fe7" name="2147483647" value="2147483647">
+                <elementDefinition Id="d5f1c6ff-d31a-4682-b427-1a277f4b7071" />
+              </literalInteger>
+            </upperBound>
+          </objectNode>
+          <objectNode Id="b768dae5-6215-40eb-b767-867fa04f426c" name="Expenses" isLeaf="false" ordering="Unordered" isControlType="false">
+            <elementDefinition Id="b86db5b7-129f-4507-b1ec-a7fe8ba8b5e6" />
+            <upperBound>
+              <literalInteger Id="bc444f1c-c2bf-4dc0-8ee2-c1267366883b" name="2147483647" value="2147483647">
+                <elementDefinition Id="cdbf2b80-6fce-4d11-bc22-f6765bff7375" />
+              </literalInteger>
+            </upperBound>
+          </objectNode>
+          <objectNode Id="acd0ae87-9872-4eac-b06c-eb12c988398d" name="All Records" isLeaf="false" ordering="Unordered" isControlType="false">
+            <elementDefinition Id="4a5fb6ce-b318-4151-8b7f-8e2b42832b5c" />
+            <upperBound>
+              <literalInteger Id="7de55781-6a48-4ddd-99c0-55e32b4f66ff" name="2147483647" value="2147483647">
+                <elementDefinition Id="6c800513-d267-4607-9258-6248a88db6e1" />
+              </literalInteger>
+            </upperBound>
+          </objectNode>
+          <objectNode Id="773d1e8a-d321-4c41-b94d-0effd6081f58" name="Contribution Record" isLeaf="false" ordering="Unordered" isControlType="false">
+            <elementDefinition Id="095dd94b-a7fc-4b6c-9e83-14c16618c489" />
+            <upperBound>
+              <literalInteger Id="27ea6983-0b2c-41db-8181-77286159ca31" name="2147483647" value="2147483647">
+                <elementDefinition Id="c5593fc9-6029-4b57-978c-072203ab9738" />
+              </literalInteger>
+            </upperBound>
+          </objectNode>
+          <objectNode Id="86e85d23-7466-473f-8bfe-c281d17ff44a" name="Expenses Record" isLeaf="false" ordering="Unordered" isControlType="false">
+            <elementDefinition Id="375e3da9-97b5-4688-8bca-86ab68039229" />
+            <upperBound>
+              <literalInteger Id="22820cf0-6afe-4e26-81dd-4f345e0c5906" name="2147483647" value="2147483647">
+                <elementDefinition Id="4ee77b47-9732-4bff-9006-d9050624dc9f" />
+              </literalInteger>
+            </upperBound>
+          </objectNode>
+          <objectNode Id="73e80e5e-5260-4bfa-a01f-2ddee8ee6fd5" name="Receipt Handler" isLeaf="false" ordering="Unordered" isControlType="false">
+            <elementDefinition Id="74388b03-d592-4cd3-b2b1-ac73ac797e7a" />
+            <objectFlowTargets>
+              <objectFlow Id="ac3a1464-c351-499f-b9a6-3b56b43a0e6b" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="02959181-9b8e-428d-b6dd-0305bb0e91d8" LastKnownName="Contribution List" />
+                <elementDefinition Id="d1b78d1e-0aa9-4f9a-aa19-9dd14a2a8ff3" />
+              </objectFlow>
+              <objectFlow Id="b07e54ad-e3a5-40ab-a142-ac6ede6a4abd" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="edd6710b-db12-4ffe-a4d5-58ed1a9159e0" LastKnownName="Expenses List" />
+                <elementDefinition Id="f7910eeb-5396-4d27-a9e8-fa3e0e5208b9" />
+              </objectFlow>
+            </objectFlowTargets>
+            <upperBound>
+              <literalInteger Id="cf9408d4-1d24-4110-8c56-d81de33456e4" name="2147483647" value="2147483647">
+                <elementDefinition Id="bf122727-cbf7-4a14-96bb-31db697eb385" />
+              </literalInteger>
+            </upperBound>
+          </objectNode>
+          <objectNode Id="0f10105c-9277-471c-94d9-a93be9d75790" name="Receipt Records" isLeaf="false" ordering="Unordered" isControlType="false">
+            <elementDefinition Id="a5f3c180-49aa-4df8-a727-f2a82d7d9353" />
+            <objectFlowTargets>
+              <objectFlow Id="04efcd4f-0e47-45f6-9a5b-bbba7c85ca66" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="2c14edaf-39d7-4b0c-8cba-48e081888640" LastKnownName="Contribution Record" />
+                <elementDefinition Id="5cba9e7b-74a8-4dca-8744-a4dc32f64c2e" />
+              </objectFlow>
+              <objectFlow Id="428ced90-2088-48cb-bd6c-1e04295c94e9" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="97ba2410-d4b4-49cb-bbda-a0f018dcddb9" LastKnownName="Expenses record" />
+                <elementDefinition Id="3e1ac961-f29b-4792-93ab-294ca690289f" />
+              </objectFlow>
+            </objectFlowTargets>
+            <upperBound>
+              <literalInteger Id="b8dcadda-1b91-449a-a4fd-f1ec42aa5410" name="2147483647" value="2147483647">
+                <elementDefinition Id="509096a6-2294-4ea8-b453-3ebbbef3ab8c" />
+              </literalInteger>
+            </upperBound>
+          </objectNode>
+          <objectNode Id="02959181-9b8e-428d-b6dd-0305bb0e91d8" name="Contribution List" isLeaf="false" ordering="Unordered" isControlType="false">
+            <elementDefinition Id="8f923dc4-1337-4b1a-867e-e89827ce9a48" />
+            <upperBound>
+              <literalInteger Id="257bcd52-fa11-4513-9e37-f3cd1b483a40" name="2147483647" value="2147483647">
+                <elementDefinition Id="758c70d2-2494-46ef-be8c-d01a104fa54f" />
+              </literalInteger>
+            </upperBound>
+          </objectNode>
+          <objectNode Id="edd6710b-db12-4ffe-a4d5-58ed1a9159e0" name="Expenses List" isLeaf="false" ordering="Unordered" isControlType="false">
+            <elementDefinition Id="e9c49c4c-3a8f-49e9-9c67-164bcf7dacbf" />
+            <upperBound>
+              <literalInteger Id="c0d0322f-1c8d-4564-bd94-bb28dc43735b" name="2147483647" value="2147483647">
+                <elementDefinition Id="2c4b73e2-f17b-4ae3-bd8f-05d248ebafae" />
+              </literalInteger>
+            </upperBound>
+          </objectNode>
+          <objectNode Id="2c14edaf-39d7-4b0c-8cba-48e081888640" name="Contribution Record" isLeaf="false" ordering="Unordered" isControlType="false">
+            <elementDefinition Id="c0e812c1-bf7d-4595-a647-ceba5a54ba88" />
+            <upperBound>
+              <literalInteger Id="67fd7bf9-cbca-444b-a5e3-1928dfa6b3b1" name="2147483647" value="2147483647">
+                <elementDefinition Id="28b4758a-ca96-413e-abba-39cabefea620" />
+              </literalInteger>
+            </upperBound>
+          </objectNode>
+          <objectNode Id="97ba2410-d4b4-49cb-bbda-a0f018dcddb9" name="Expenses record" isLeaf="false" ordering="Unordered" isControlType="false">
+            <elementDefinition Id="1cd4530e-fde2-4eb7-924b-95a2f107445b" />
+            <upperBound>
+              <literalInteger Id="06ff4024-6abd-4e4e-a846-c91b4b6b1479" name="2147483647" value="2147483647">
+                <elementDefinition Id="e2ece9ea-1516-43f2-8702-d4efd976e227" />
+              </literalInteger>
+            </upperBound>
+          </objectNode>
+          <decisionNode Id="9f9775f9-e54e-44d6-9a6d-365cc016ade0" name="Decision1" isLeaf="false">
+            <elementDefinition Id="ab8b2717-d81f-4fce-9c46-16311e5fc21b" />
+            <objectFlowTargets>
+              <objectFlow Id="cf70b097-8843-4d6f-8f18-ce3b592b1d31" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="e89e0427-2ab3-4e97-b178-f21b9b0f6365" LastKnownName="Balance Sheet" />
+                <elementDefinition Id="5cfe4a7a-601b-4177-b252-eccee8d22e85" />
+              </objectFlow>
+              <objectFlow Id="7561ea7f-f663-448c-bcf9-b0a0ca7ce004" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="2892fdff-3f12-4d0f-9417-9a89fa3a8f6b" LastKnownName="Cash Report" />
+                <elementDefinition Id="4af057e8-60c7-479f-8c86-fc76b358512a" />
+              </objectFlow>
+              <objectFlow Id="2719a9f0-55e8-4678-bdeb-97ceb4595dba" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="0197319f-0c5f-4e16-9395-3bbe857f4be0" LastKnownName="Receipt Records" />
+                <elementDefinition Id="5194c507-6df4-4443-8391-a42bb8d5e828" />
+              </objectFlow>
+              <objectFlow Id="bd419c9a-4c5c-4393-b489-7fb2108ff7ce" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="378de231-6ab9-4c40-a813-5668eef4cea8" LastKnownName="LOGIN FAILED" />
+                <elementDefinition Id="ef31387f-e27a-4fa5-8251-19f8f3d01877" />
+              </objectFlow>
+              <objectFlow Id="ae092a05-42ad-4bb8-9a94-a0d24dbe8a60" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="0ac3a054-35c3-42bb-a034-024b0d9f2ea1" LastKnownName="Export Report" />
+                <elementDefinition Id="fd369138-d6a4-49ab-9e59-f936c2418dd0" />
+              </objectFlow>
+            </objectFlowTargets>
+          </decisionNode>
+          <objectNode Id="378de231-6ab9-4c40-a813-5668eef4cea8" name="LOGIN FAILED" isLeaf="false" ordering="Unordered" isControlType="false">
+            <elementDefinition Id="ff676f4a-7288-4fe5-a1f9-36a3a2aaddc1" />
+            <objectFlowTargets>
+              <objectFlow Id="85a2deb4-dbae-41c3-9f7c-869990f6dc07" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="d669b8b3-8755-4e5f-a22a-aa267b5a71dd" LastKnownName="ADMINISTRATOR LOGIN" />
+                <elementDefinition Id="64116ed4-4314-4bdc-be8d-12f22765e4d1" />
+              </objectFlow>
+              <objectFlow Id="3caa5037-9b92-4fbf-b755-6b23ae2108d7" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="a3ecaff0-cf1f-428c-be8e-2072190d231a" LastKnownName="ACCOUNTANT LOGIN" />
+                <elementDefinition Id="418cebf5-4e00-4649-9c9a-45634ed9931f" />
+              </objectFlow>
+              <objectFlow Id="5374561a-6b9e-41b2-88e0-8f43489eed7d" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="5f24f435-0cae-419e-9ba9-f256688d2075" LastKnownName="CASHIER LOGIN" />
+                <elementDefinition Id="516cb651-088b-424a-90cb-be2e7cbd0989" />
+              </objectFlow>
+              <objectFlow Id="cd53cb3c-3293-43ab-b4cd-8d847501f4dd" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="6277d095-2de4-4364-9eb5-5987727bfdf9" LastKnownName="Reset Password" />
+                <elementDefinition Id="d10765d8-982e-4191-a623-90c072ffc4cc" />
+              </objectFlow>
+            </objectFlowTargets>
+            <upperBound>
+              <literalInteger Id="c1f41e8a-8033-4f75-8cc3-3fcb82174fa1" name="2147483647" value="2147483647">
+                <elementDefinition Id="d4656efa-5dcc-4431-8acb-77033cc90a7e" />
+              </literalInteger>
+            </upperBound>
+          </objectNode>
+          <decisionNode Id="a2788b1a-cccd-4a64-907f-c730a6dbc871" name="Decision2" isLeaf="false">
+            <elementDefinition Id="ac4dcb76-df23-4ab7-8916-fe4dfbf2ab8a" />
+            <objectFlowTargets>
+              <objectFlow Id="774f4d30-320c-490e-95c3-552b181fc738" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="90fa0621-d984-4518-80b1-82dd74bc94e0" LastKnownName="Member Record" />
+                <elementDefinition Id="b23c5532-5cf1-4a6f-a328-58db9bb81ab4" />
+              </objectFlow>
+              <objectFlow Id="c7354c15-d283-4519-b886-9b7e5d3b0039" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="094fbf95-5c6a-45da-a4e7-77002cbd9ab5" LastKnownName="Event Organiser" />
+                <elementDefinition Id="db9e456b-f390-4499-9a9f-a106782d0a7f" />
+              </objectFlow>
+              <objectFlow Id="1d451344-6ee9-4872-97ea-59740148b6fd" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="fbd1801e-22ab-4463-8147-49c45dcd08bf" LastKnownName="View Accountant" />
+                <elementDefinition Id="55b622d4-ddab-4c0d-8509-d75c71f2cc14" />
+              </objectFlow>
+              <objectFlow Id="152d00fa-2050-4afe-8185-b9a644a0af42" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="ff57b130-676a-4283-a618-f0c2e26d17ce" LastKnownName="View Cashier" />
+                <elementDefinition Id="710ba4f8-a54a-4fe1-97b2-7368e331c912" />
+              </objectFlow>
+              <objectFlow Id="ba44dcba-6822-4380-9843-85a96827be8e" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="378de231-6ab9-4c40-a813-5668eef4cea8" LastKnownName="LOGIN FAILED" />
+                <elementDefinition Id="4059685a-9f12-4991-8917-856e99267a78" />
+              </objectFlow>
+            </objectFlowTargets>
+          </decisionNode>
+          <decisionNode Id="2fa229f5-710a-4da6-a3e4-4614a621da36" name="Decision3" isLeaf="false">
+            <elementDefinition Id="982d1fc2-8001-41be-a5bb-1f660ec42ae1" />
+            <objectFlowTargets>
+              <objectFlow Id="5a0fe8bd-d003-42a8-be34-2a0644240654" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="0f10105c-9277-471c-94d9-a93be9d75790" LastKnownName="Receipt Records" />
+                <elementDefinition Id="4fd25306-8ebc-448e-854e-9c99f6948d56" />
+              </objectFlow>
+              <objectFlow Id="a8aa2cf2-6bb0-46f8-bf83-2ae53424ce46" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="73e80e5e-5260-4bfa-a01f-2ddee8ee6fd5" LastKnownName="Receipt Handler" />
+                <elementDefinition Id="32626c02-2b7c-418c-8eab-2b90d57096d3" />
+              </objectFlow>
+              <objectFlow Id="39e3b6c9-f21c-4079-9f15-32a636ef71d4" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="07bcbe90-f5fc-46c0-a82c-71ea5f81cc00" LastKnownName="Export Report" />
+                <elementDefinition Id="67e7fc7f-1950-4e6e-b84f-e3adc069416c" />
+              </objectFlow>
+              <objectFlow Id="f32b55ea-12ad-477c-8be5-8f5da657dda8" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="378de231-6ab9-4c40-a813-5668eef4cea8" LastKnownName="LOGIN FAILED" />
+                <elementDefinition Id="cbb1b3d7-9ed9-4f85-a814-5305dd53a9cb" />
+              </objectFlow>
+            </objectFlowTargets>
+          </decisionNode>
+          <objectNode Id="3580cae8-84d0-4107-b116-2789cf0dc9dc" name="Sign Up" isLeaf="false" ordering="Unordered" isControlType="false">
+            <elementDefinition Id="76547c11-b3ec-4667-922d-27b2e7c43372" />
+            <objectFlowTargets>
+              <objectFlow Id="e0e5951d-0274-4d1b-aa86-6db4cb1ba384" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="d669b8b3-8755-4e5f-a22a-aa267b5a71dd" LastKnownName="ADMINISTRATOR LOGIN" />
+                <elementDefinition Id="f657e265-69d9-44d7-8216-40e9b5491a24" />
+              </objectFlow>
+              <objectFlow Id="06df3952-278a-4f11-a239-e1ac88a95e67" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="a3ecaff0-cf1f-428c-be8e-2072190d231a" LastKnownName="ACCOUNTANT LOGIN" />
+                <elementDefinition Id="946df8ee-cab5-4984-8835-fb65bb96601c" />
+              </objectFlow>
+              <objectFlow Id="75febdd5-e0da-4d93-8c05-da9e3b911e40" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="5f24f435-0cae-419e-9ba9-f256688d2075" LastKnownName="CASHIER LOGIN" />
+                <elementDefinition Id="ffa73c9d-57be-4964-b0ef-29885658f6a9" />
+              </objectFlow>
+            </objectFlowTargets>
+            <upperBound>
+              <literalInteger Id="db71b413-0ef1-443e-91ce-e823b3b5c580" name="2147483647" value="2147483647">
+                <elementDefinition Id="dd680651-133e-4647-942f-1f084379d99d" />
+              </literalInteger>
+            </upperBound>
+          </objectNode>
+          <objectNode Id="d7e75b74-7fbe-4ee0-b505-e44567ab518c" name="Add Event" isLeaf="false" ordering="Unordered" isControlType="false">
+            <elementDefinition Id="12aab16f-12b8-4462-82c5-8c4ef75d71dc" />
+            <upperBound>
+              <literalInteger Id="8fa2772d-ce90-481e-9044-66b879dc5255" name="2147483647" value="2147483647">
+                <elementDefinition Id="8ede726e-1611-4dc2-ae83-176a38b4587a" />
+              </literalInteger>
+            </upperBound>
+          </objectNode>
+          <objectNode Id="c7760cf9-52a1-402b-8711-d8fea9dd9638" name="View event" isLeaf="false" ordering="Unordered" isControlType="false">
+            <elementDefinition Id="db3cea48-b506-4b39-b319-b81a9aa67aa2" />
+            <upperBound>
+              <literalInteger Id="975e5f00-3a57-4000-baf2-620893e221af" name="2147483647" value="2147483647">
+                <elementDefinition Id="d9638573-0351-47bb-b357-9e5a75efdd31" />
+              </literalInteger>
+            </upperBound>
+          </objectNode>
+          <objectNode Id="d7f4209f-8917-45f8-8c96-d390ac6fd396" name="Manage Event" isLeaf="false" ordering="Unordered" isControlType="false">
+            <elementDefinition Id="6948c277-752a-4199-aeb4-46c8fea25926" />
+            <upperBound>
+              <literalInteger Id="ae00075f-27ee-438c-a260-c5b2d887b5c4" name="2147483647" value="2147483647">
+                <elementDefinition Id="ca8c94de-a8a5-4377-b6ab-db41b12f751f" />
+              </literalInteger>
+            </upperBound>
+          </objectNode>
+          <objectNode Id="6277d095-2de4-4364-9eb5-5987727bfdf9" name="Reset Password" isLeaf="false" ordering="Unordered" isControlType="false">
+            <elementDefinition Id="f6e30863-6ff9-4019-8003-e4a43e0318f2" />
+            <objectFlowTargets>
+              <objectFlow Id="f42b931a-66b3-4125-9594-9dbe46ee4f57" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="d669b8b3-8755-4e5f-a22a-aa267b5a71dd" LastKnownName="ADMINISTRATOR LOGIN" />
+                <elementDefinition Id="10d14b50-8cd2-4476-91c8-a8a7cb3422e0" />
+              </objectFlow>
+              <objectFlow Id="af71764b-079f-4a8e-a141-54df9aa91114" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="a3ecaff0-cf1f-428c-be8e-2072190d231a" LastKnownName="ACCOUNTANT LOGIN" />
+                <elementDefinition Id="91a69e42-4c41-4443-8ae1-ffb32fa31639" />
+              </objectFlow>
+              <objectFlow Id="8fbcee99-a32a-4e09-b624-2750b1e5b00b" isLeaf="false" isMulticast="false" isMultireceive="false">
+                <objectNodeMoniker Id="5f24f435-0cae-419e-9ba9-f256688d2075" LastKnownName="CASHIER LOGIN" />
+                <elementDefinition Id="f9bb76cc-1377-4118-8194-ff3d39668433" />
+              </objectFlow>
+            </objectFlowTargets>
+            <upperBound>
+              <literalInteger Id="48e54315-08ef-4ac3-b375-de2cb56cf408" name="2147483647" value="2147483647">
+                <elementDefinition Id="36a9d41d-4bc5-4b0b-b71f-852070645c3b" />
+              </literalInteger>
+            </upperBound>
+          </objectNode>
+        </nodes>
+      </activity>
+    </activityRootModelHasActivity>
+  </packagedElements>
+  <package Id="21f08a0b-0617-4dc2-b844-c167ab4c6d84" name="ModelingProject3">
+    <elementDefinition Id="64f1c975-732e-4f24-ba80-8804dc5696ed" />
+  </package>
+</activityRootModel>

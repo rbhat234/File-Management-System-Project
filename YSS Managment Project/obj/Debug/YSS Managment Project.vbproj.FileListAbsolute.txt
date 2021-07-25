@@ -1,0 +1,199 @@
+c:\users\anish choudhary\documents\visual studio 2012\Projects\YSS Managment Project\YSS Managment Project\bin\Debug\YSS Managment Project.exe.config
+c:\users\anish choudhary\documents\visual studio 2012\Projects\YSS Managment Project\YSS Managment Project\bin\Debug\YSS Managment Project.exe
+c:\users\anish choudhary\documents\visual studio 2012\Projects\YSS Managment Project\YSS Managment Project\bin\Debug\YSS Managment Project.pdb
+c:\users\anish choudhary\documents\visual studio 2012\Projects\YSS Managment Project\YSS Managment Project\bin\Debug\YSS Managment Project.xml
+c:\users\anish choudhary\documents\visual studio 2012\Projects\YSS Managment Project\YSS Managment Project\obj\Debug\YSS_Managment_Project.Form1.resources
+c:\users\anish choudhary\documents\visual studio 2012\Projects\YSS Managment Project\YSS Managment Project\obj\Debug\YSS_Managment_Project.Resources.resources
+c:\users\anish choudhary\documents\visual studio 2012\Projects\YSS Managment Project\YSS Managment Project\obj\Debug\YSS Managment Project.vbproj.GenerateResource.Cache
+c:\users\anish choudhary\documents\visual studio 2012\Projects\YSS Managment Project\YSS Managment Project\obj\Debug\YSS Managment Project.exe
+c:\users\anish choudhary\documents\visual studio 2012\Projects\YSS Managment Project\YSS Managment Project\obj\Debug\YSS Managment Project.xml
+c:\users\anish choudhary\documents\visual studio 2012\Projects\YSS Managment Project\YSS Managment Project\obj\Debug\YSS Managment Project.pdb
+C:\Users\Anish Choudhary\documents\visual studio 2012\Projects\YSS Managment Project\YSS Managment Project\obj\Debug\YSS_Managment_Project.TxtBoxFirstName.resources
+C:\Users\Anish Choudhary\documents\visual studio 2012\Projects\YSS Managment Project\YSS Managment Project\obj\Debug\YSS_Managment_Project.FormAddMemberQualification.resources
+C:\Users\Anish Choudhary\Documents\Visual Studio 2012\Projects\YSS Managment Project\YSS Managment Project\obj\Debug\YSS_Managment_Project.SplashScreen1.resources
+F:\YSS Managment Project\YSS Managment Project\bin\Debug\YSS Managment Project.exe.config
+F:\YSS Managment Project\YSS Managment Project\obj\Debug\YSS Managment Project.exe
+F:\YSS Managment Project\YSS Managment Project\obj\Debug\YSS Managment Project.xml
+F:\YSS Managment Project\YSS Managment Project\obj\Debug\YSS Managment Project.pdb
+F:\YSS Managment Project\YSS Managment Project\bin\Debug\YSS Managment Project.exe
+F:\YSS Managment Project\YSS Managment Project\bin\Debug\YSS Managment Project.pdb
+F:\YSS Managment Project\YSS Managment Project\bin\Debug\YSS Managment Project.xml
+F:\YSS Managment Project\YSS Managment Project\obj\Debug\YSS_Managment_Project.Form1.resources
+F:\YSS Managment Project\YSS Managment Project\obj\Debug\YSS_Managment_Project.TxtBoxFirstName.resources
+F:\YSS Managment Project\YSS Managment Project\obj\Debug\YSS_Managment_Project.FormAddMemberQualification.resources
+F:\YSS Managment Project\YSS Managment Project\obj\Debug\YSS_Managment_Project.Resources.resources
+F:\YSS Managment Project\YSS Managment Project\obj\Debug\YSS Managment Project.vbproj.GenerateResource.Cache
+F:\YSS Managment Project\YSS Managment Project\obj\Debug\YSS_Managment_Project.Receipt_Handler.resources
+F:\YSS Managment Project\YSS Managment Project\obj\Debug\YSS_Managment_Project.Admin_Login.resources
+F:\YSS Managment Project\YSS Managment Project\obj\Debug\YSS_Managment_Project.Forgot_Password.resources
+F:\YSS Managment Project\YSS Managment Project\obj\Debug\YSS_Managment_Project.SignUpForm.resources
+F:\YSS Managment Project\YSS Managment Project\obj\Debug\YSS_Managment_Project.AccountantLogin.resources
+F:\YSS Managment Project\YSS Managment Project\obj\Debug\YSS_Managment_Project.AccountLogin.resources
+F:\YSS Managment Project\YSS Managment Project\obj\Debug\YSS_Managment_Project.AdminMainPage.resources
+F:\YSS Managment Project\YSS Managment Project\obj\Debug\YSS_Managment_Project.About.resources
+F:\YSS Managment Project\YSS Managment Project\obj\Debug\YSS_Managment_Project.Help.resources
+F:\YSS Managment Project\YSS Managment Project\obj\Debug\YSS_Managment_Project.CahierLogin.resources
+F:\YSS Managment Project\YSS Managment Project\obj\Debug\YSS_Managment_Project.AccountantMainPage.resources
+F:\YSS Managment Project\YSS Managment Project\obj\Debug\YSS_Managment_Project.CashierMainPage.resources
+F:\YSS Managment Project\YSS MANAGEMENT PROJECT\YSS Managment Project\bin\Debug\YSS Managment Project.exe.config
+F:\YSS Managment Project\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS Managment Project.exe
+F:\YSS Managment Project\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS Managment Project.xml
+F:\YSS Managment Project\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS Managment Project.pdb
+F:\YSS Managment Project\YSS MANAGEMENT PROJECT\YSS Managment Project\bin\Debug\YSS Managment Project.exe
+F:\YSS Managment Project\YSS MANAGEMENT PROJECT\YSS Managment Project\bin\Debug\YSS Managment Project.pdb
+F:\YSS Managment Project\YSS MANAGEMENT PROJECT\YSS Managment Project\bin\Debug\YSS Managment Project.xml
+F:\YSS Managment Project\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.About.resources
+F:\YSS Managment Project\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.AccountantMainPage.resources
+F:\YSS Managment Project\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.AdminMainPage.resources
+F:\YSS Managment Project\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.CashierMainPage.resources
+F:\YSS Managment Project\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.FormAddMemberQualification.resources
+F:\YSS Managment Project\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.Help.resources
+F:\YSS Managment Project\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.Resources.resources
+F:\YSS Managment Project\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.SignUpForm.resources
+F:\YSS Managment Project\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS Managment Project.vbproj.GenerateResource.Cache
+F:\YSS Managment Project\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.FormAddMember.resources
+F:\YSS Managment Project\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.FormContributionReceipt.resources
+F:\YSS Managment Project\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.FormExpensesReceipt.resources
+F:\YSS Managment Project\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.FormContributionRecord.resources
+F:\YSS Managment Project\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.FormExpenseRecord.resources
+F:\YSS Managment Project\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.LoginForm.resources
+F:\YSS Managment Project\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.ForgotPassword.resources
+F:\YSS Managment Project\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.Form1.resources
+F:\YSS Managment Project\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.FormMemberRecord.resources
+F:\YSS Managment Project\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS Managment Project.vbproj.ResolveComReference.cache
+F:\YSS Managment Project\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.FormBalancesheet.resources
+F:\YSS Managment Project\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.Viewmember.resources
+F:\YSS Managment Project\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.FormAddEvent.resources
+F:\YSS Managment Project\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.SplashScreen.resources
+F:\YSS Managment Project\YSS MANAGEMENT PROJECT\YSS Managment Project\bin\Debug\YSS Managment Project.exe.manifest
+F:\YSS Managment Project\YSS MANAGEMENT PROJECT\YSS Managment Project\bin\Debug\YSS Managment Project.application
+F:\YSS Managment Project\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS Managment Project.exe.manifest
+F:\YSS Managment Project\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS Managment Project.application
+F:\YSS Managment Project\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.ViewEvents.resources
+F:\YSS MANAGEMENT PROJECT\YSS Managment Project\bin\Debug\YSS Managment Project.exe.config
+F:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS Managment Project.vbproj.ResolveComReference.cache
+F:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS Managment Project.exe
+F:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS Managment Project.xml
+F:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS Managment Project.pdb
+F:\YSS MANAGEMENT PROJECT\YSS Managment Project\bin\Debug\YSS Managment Project.exe.manifest
+F:\YSS MANAGEMENT PROJECT\YSS Managment Project\bin\Debug\YSS Managment Project.application
+F:\YSS MANAGEMENT PROJECT\YSS Managment Project\bin\Debug\YSS Managment Project.exe
+F:\YSS MANAGEMENT PROJECT\YSS Managment Project\bin\Debug\YSS Managment Project.pdb
+F:\YSS MANAGEMENT PROJECT\YSS Managment Project\bin\Debug\YSS Managment Project.xml
+F:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.About.resources
+F:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.AccountantMainPage.resources
+F:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.AdminMainPage.resources
+F:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.CashierMainPage.resources
+F:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.ForgotPassword.resources
+F:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.Form1.resources
+F:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.FormAddEvent.resources
+F:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.FormAddMember.resources
+F:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.FormAddMemberQualification.resources
+F:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.FormBalancesheet.resources
+F:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.FormContributionRecord.resources
+F:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.FormExpenseRecord.resources
+F:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.FormExpensesReceipt.resources
+F:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.FormMemberRecord.resources
+F:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.Help.resources
+F:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.LoginForm.resources
+F:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.Resources.resources
+F:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.FormContributionReceipt.resources
+F:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.SignUpForm.resources
+F:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.SplashScreen.resources
+F:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.ViewEvents.resources
+F:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.Viewmember.resources
+F:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS Managment Project.vbproj.GenerateResource.Cache
+F:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS Managment Project.exe.manifest
+F:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS Managment Project.application
+F:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.Recover_Password.resources
+G:\YSS MANAGEMENT PROJECT\YSS Managment Project\bin\Debug\YSS Managment Project.exe.config
+G:\YSS MANAGEMENT PROJECT\YSS Managment Project\bin\Debug\YSS Managment Project.exe.manifest
+G:\YSS MANAGEMENT PROJECT\YSS Managment Project\bin\Debug\YSS Managment Project.application
+G:\YSS MANAGEMENT PROJECT\YSS Managment Project\bin\Debug\YSS Managment Project.exe
+G:\YSS MANAGEMENT PROJECT\YSS Managment Project\bin\Debug\YSS Managment Project.pdb
+G:\YSS MANAGEMENT PROJECT\YSS Managment Project\bin\Debug\YSS Managment Project.xml
+G:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS Managment Project.vbproj.ResolveComReference.cache
+G:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.About.resources
+G:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.AccountantMainPage.resources
+G:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.AdminMainPage.resources
+G:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.CashierMainPage.resources
+G:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.ForgotPassword.resources
+G:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.Form1.resources
+G:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.FormAddEvent.resources
+G:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.FormAddMember.resources
+G:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.FormAddMemberQualification.resources
+G:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.FormBalancesheet.resources
+G:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.FormContributionRecord.resources
+G:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.FormExpenseRecord.resources
+G:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.FormExpensesReceipt.resources
+G:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.FormMemberRecord.resources
+G:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.Help.resources
+G:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.LoginForm.resources
+G:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.Resources.resources
+G:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.FormContributionReceipt.resources
+G:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.Recover_Password.resources
+G:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.SignUpForm.resources
+G:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.SplashScreen.resources
+G:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.ViewEvents.resources
+G:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.Viewmember.resources
+G:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS Managment Project.vbproj.GenerateResource.Cache
+G:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS Managment Project.exe.manifest
+G:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS Managment Project.application
+G:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS Managment Project.exe
+G:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS Managment Project.xml
+G:\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS Managment Project.pdb
+C:\Users\Rohit Bhat (ASH)\Desktop\Project CD\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS Managment Project.exe
+C:\Users\Rohit Bhat (ASH)\Desktop\Project CD\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS Managment Project.xml
+C:\Users\Rohit Bhat (ASH)\Desktop\Project CD\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS Managment Project.pdb
+C:\Users\Rohit Bhat (ASH)\Desktop\Project CD\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS Managment Project.vbprojResolveAssemblyReference.cache
+C:\Users\Rohit Bhat (ASH)\Desktop\Project CD\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\Interop.COMAdmin.dll
+C:\Users\Rohit Bhat (ASH)\Desktop\Project CD\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\Interop.COMReplLib.dll
+C:\Users\Rohit Bhat (ASH)\Desktop\Project CD\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\Interop.COMSNAPLib.dll
+C:\Users\Rohit Bhat (ASH)\Desktop\Project CD\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\Interop.COMSVCSLib.dll
+C:\Users\Rohit Bhat (ASH)\Desktop\Project CD\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\Interop.COM_SRS_WOWHDLib.dll
+C:\Users\Rohit Bhat (ASH)\Desktop\Project CD\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\Interop.CUSTREGLib.dll
+C:\Users\Rohit Bhat (ASH)\Desktop\Project CD\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\Interop.mscoree.dll
+C:\Users\ash bhat\Desktop\YSS Mgt\YSS MANAGEMENT PROJECT\YSS Managment Project\bin\Debug\YSS Managment Project.exe.config
+C:\Users\ash bhat\Desktop\YSS Mgt\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\Interop.COMAdmin.dll
+C:\Users\ash bhat\Desktop\YSS Mgt\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\Interop.COMReplLib.dll
+C:\Users\ash bhat\Desktop\YSS Mgt\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\Interop.COMSNAPLib.dll
+C:\Users\ash bhat\Desktop\YSS Mgt\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\Interop.COMSVCSLib.dll
+C:\Users\ash bhat\Desktop\YSS Mgt\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\Interop.CUSTREGLib.dll
+C:\Users\ash bhat\Desktop\YSS Mgt\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\Interop.mscoree.dll
+C:\Users\ash bhat\Desktop\YSS Mgt\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS Managment Project.vbproj.ResolveComReference.cache
+C:\Users\ash bhat\Desktop\YSS Mgt\YSS MANAGEMENT PROJECT\YSS Managment Project\bin\Debug\YSS Managment Project.exe.manifest
+C:\Users\ash bhat\Desktop\YSS Mgt\YSS MANAGEMENT PROJECT\YSS Managment Project\bin\Debug\YSS Managment Project.application
+C:\Users\ash bhat\Desktop\YSS Mgt\YSS MANAGEMENT PROJECT\YSS Managment Project\bin\Debug\YSS Managment Project.exe
+C:\Users\ash bhat\Desktop\YSS Mgt\YSS MANAGEMENT PROJECT\YSS Managment Project\bin\Debug\YSS Managment Project.pdb
+C:\Users\ash bhat\Desktop\YSS Mgt\YSS MANAGEMENT PROJECT\YSS Managment Project\bin\Debug\YSS Managment Project.xml
+C:\Users\ash bhat\Desktop\YSS Mgt\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS Managment Project.vbprojResolveAssemblyReference.cache
+C:\Users\ash bhat\Desktop\YSS Mgt\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.About.resources
+C:\Users\ash bhat\Desktop\YSS Mgt\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.AccountantMainPage.resources
+C:\Users\ash bhat\Desktop\YSS Mgt\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.AdminMainPage.resources
+C:\Users\ash bhat\Desktop\YSS Mgt\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.CashierMainPage.resources
+C:\Users\ash bhat\Desktop\YSS Mgt\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.ForgotPassword.resources
+C:\Users\ash bhat\Desktop\YSS Mgt\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.Form1.resources
+C:\Users\ash bhat\Desktop\YSS Mgt\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.FormAddEvent.resources
+C:\Users\ash bhat\Desktop\YSS Mgt\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.FormAddMember.resources
+C:\Users\ash bhat\Desktop\YSS Mgt\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.FormAddMemberQualification.resources
+C:\Users\ash bhat\Desktop\YSS Mgt\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.FormBalancesheet.resources
+C:\Users\ash bhat\Desktop\YSS Mgt\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.FormContributionRecord.resources
+C:\Users\ash bhat\Desktop\YSS Mgt\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.FormExpenseRecord.resources
+C:\Users\ash bhat\Desktop\YSS Mgt\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.FormExpensesReceipt.resources
+C:\Users\ash bhat\Desktop\YSS Mgt\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.FormMemberRecord.resources
+C:\Users\ash bhat\Desktop\YSS Mgt\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.Help.resources
+C:\Users\ash bhat\Desktop\YSS Mgt\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.LoginForm.resources
+C:\Users\ash bhat\Desktop\YSS Mgt\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.Resources.resources
+C:\Users\ash bhat\Desktop\YSS Mgt\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.FormContributionReceipt.resources
+C:\Users\ash bhat\Desktop\YSS Mgt\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.Recover_Password.resources
+C:\Users\ash bhat\Desktop\YSS Mgt\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.SignUpForm.resources
+C:\Users\ash bhat\Desktop\YSS Mgt\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.SplashScreen.resources
+C:\Users\ash bhat\Desktop\YSS Mgt\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.ViewEvents.resources
+C:\Users\ash bhat\Desktop\YSS Mgt\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS_Managment_Project.Viewmember.resources
+C:\Users\ash bhat\Desktop\YSS Mgt\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS Managment Project.vbproj.GenerateResource.Cache
+C:\Users\ash bhat\Desktop\YSS Mgt\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS Managment Project.exe.manifest
+C:\Users\ash bhat\Desktop\YSS Mgt\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS Managment Project.application
+C:\Users\ash bhat\Desktop\YSS Mgt\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS Managment Project.exe
+C:\Users\ash bhat\Desktop\YSS Mgt\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS Managment Project.xml
+C:\Users\ash bhat\Desktop\YSS Mgt\YSS MANAGEMENT PROJECT\YSS Managment Project\obj\Debug\YSS Managment Project.pdb
+C:\Users\ash bhat\Desktop\YSS Mgt\YSS MANAGEMENT PROJECT\YSS Managment Project\bin\Debug\ash.mdb
