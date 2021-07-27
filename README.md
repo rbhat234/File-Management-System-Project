@@ -105,11 +105,7 @@ The Y.S.S Management System is based on automation of the information which prov
 	 2.3	VIEW CASHIER
 	 2.3.1	RECEIPT RECORD
 		 2.3.1.1	CONTRIBUTION RECORD
-		 2.3.1.2	EXPENSES RECORD
-	 2.4	FORGOT PASSWORD
-	 2.5	CHANGE PASSWORD
-	 2.6	LOGOUT
-	  
+		 2.3.1.2	EXPENSES RECORD	  
 
 ## 3.	CASHIER LOGIN
 	 3.1	RECIEPT HANDLER
@@ -122,9 +118,6 @@ The Y.S.S Management System is based on automation of the information which prov
 		3.3.1		ALL RECORDS
 		3.3.2		CONTRIBUTION RECORD
 		3.3.3		EXPENSES RECORD
-	3.4	FORGOT PASSWORD
-	3.5	CHANGE PASSWORD
-	3.6	LOGOUT
 
 ## 4.	HELP
 *	This section gives all the necessary help about the system and its modules.
@@ -279,7 +272,6 @@ Form1.vs
 
 ###  1.2.1	ADD EVENTS:
 *  This Modules helps the Administrator to add new events by selecting the event date from calendar and adding a descriptive note to that date.
-
 ![Image of Add_Event](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Add_Event.jpg)
 
 ###  1.2.2	VIEW EVENTS:
@@ -296,43 +288,34 @@ Form1.vs
 
 ###  1.3.1	BALANCE SHEET
 * This provides the Administrator with the information of all the finical transactions that are being carried out by the organization.
-![Image of ](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/ .jpg)
+![Image of Balancesheet](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Balancesheet.jpg)
 
 ###  1.3.2	CASH RECORD
 * In this section the Administrator can view all the Money inflow and outflow to and from the organization.
-![Image of ](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/ .jpg)
 
 ##  1.4	VIEW CASHIER
 * In this section the Administrator can view all the operations performed by the Cashier.
-![Image of ](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/ .jpg)
 
 ###  1.4.1 	RECEIPT RECORD 
 * In this section the Administrator can view records of receipts stored in the database.
-![Image of ](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/ .jpg)
 
 #### 1.4.1.1	CONTRIBUTION RECORD
 * This section facilitates the Administrator to view all the list of Contributors and amount, time, date and year regarding the contribution. 
-![Image of ](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/ .jpg)
 
 ####  1.4.1.2	EXPENSES RECORD
 * This section facilities the Administrator to view all the Expenses details.
-![Image of ](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/ .jpg)
 
 ##  1.5	EXPORT REPORTS
 * This sections help the administrator to Exports the required records as an Excel sheet.
-![Image of ](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/ .jpg)
 
 ###  1.5.1	ALL
 * All sub section enables the Administrator to Export all the records (both Contribution Record and Expenses Record)
-![Image of ](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/ .jpg)
 
 ###  1.5.2	CONTRIBUTION RECORD
 * Contribution Record section enables the Administrator to Export the required Contribution Records with full details associated with per contribution. 
-![Image of ](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/ .jpg)
 
 ###  1.5.3	EXPENSES RECORD
 * Expenses Record section enables the Administrator to Export the required Expenses Records with full details associated with per Expenses. 
-![Image of ](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/ .jpg)
 
 ##  1.6	HELP
 * The Help section provides the Administrator when he is facing any problem.
@@ -341,13 +324,13 @@ Form1.vs
 * This section allows the administrator set a new password in case he forgets the present password.
 * If the username, secret question and secret answer matches the record in the database then password is changed successfully.
 * If the data enter by the administrator in form is incorrect then, an error message is displayed on the screen.
-![Image of ](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/ .jpg)
+![Image of Forget%20Password](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Forget%20Password.jpg)
 
 ##  1.8	CHANGE PASSWORD
 * This section allows the administrator set a new password in case he wants to.
 * If the username and old password matches the record in the database, then password is changed successfully.
 * If the data enter by the administrator in form is incorrect then, an error message is displayed on the screen.
-![Image of ](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/ .jpg)
+![Image of Forget%20Password](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Forget%20Password.jpg)
 
 ##  1.9	 LOGOUT
 * When the administrator logouts, administrator is asked to either sign in again 
@@ -380,23 +363,7 @@ Form1.vs
 * This section views record related to Contribution Records.
 
 ### 2.3.1.2 EXPENSES RECORD
-*This section views record related to Expense Records.
-
-## 2.4	FORGOT PASSWORD
-* This section allows the administrator set a new password in case he/she forgets the present password.
-* If the username, secret question and secret answer matches the record in the database then password is changed successfully.
-* If the data enter by the administrator in form is incorrect then, an error message is displayed on the screen.
-
-## 2.7	CHANGE PASSWORD
-* This section allows the administrator set a new password in case he wants to.
-* If the username and old password matches the record in the database, then password is changed successfully.
-* If the data enter by the administrator in form is incorrect then, an error message is displayed on the screen
-
-## 2.8	 LOGOUT
-* When the administrator logouts, administrator is asked to either sign in again or exit the system.
-
-## 2.9	  EXIT
-* This section helps the administrator to close the current module and go back to main form
+* This section views record related to Expense Records.
 
 
 # 3	CASHIER LOGIN
@@ -412,36 +379,36 @@ Form1.vs
 
 ### 3.1.1	  CONTRIBUTION RECEIPT
 * This section allows the user to store the information for received contribution from any member.
-![Image of Countribution_Record](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Countribution_Record.jpg)
 
 ### 3.1.2	   EXPENSES RECEIPT
 * This section allows the user of this system to store the information regarding the cash outflow (expenses) from the organization.
-![Image of Recipt_Handler](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Recipt_Handler.jpg)
 
 ## 3.2	    EXPORT REPORT
 * This section enable the user to export the whole or required Database Related to the Receipt Records as an excel file.
-![Image of Recipt_Handler](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Recipt_Handler.jpg)
+![Image of Export_record](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Export_record.jpg)
 
 ### 3.2.1	  ALL RECORDS
 * This section enables the user to export all the receipt related records (both Contribution Record and Expenses Record)
-![Image of Recipt_Handler](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Recipt_Handler.jpg)
 
 ### 3.2.2	CONTRIBUTION RECORD
 * Contribution Record section enables the Cashier to Export the required Contribution Records with full details associated with per contribution. 
+![Image of Countribution_Record](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Countribution_Record.jpg)
 
 ### 3.2.3	EXPENSES RECORD
 * Expenses Record section enables the Administrator to Export the required Expenses Records with full details associated with per Expenses. 
+![Image of Expense_Record](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Expense_Record.jpg)
 
 ## 3.3	FORGOT PASSWORD
 * This section allows the administrator set a new password in case he forgets the present password.
 * If the username, secret question and secret answer matches the record in the database then password is changed successfully.
 * If the data enter by the administrator in form is incorrect then, an error message is displayed on the screen.
-
+![Image of Forget%20Password](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Forget%20Password.jpg)
 
 ## 3.4	CHANGE PASSWORD
 * This section allows the Cashier set a new password in case he wants to.
 * If the username and old password matches the record in the database, then  password is changed successfully.
 * If the data enter by the administrator in form is incorrect then, an error message is displayed on the screen
+![Image of Forget%20Password](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Forget%20Password.jpg)
 
 ## 3.5 	LOGOUT
 * When the administrator (Cashier) logouts, administrator is asked to either sign in again or exit the system.
