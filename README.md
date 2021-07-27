@@ -247,6 +247,9 @@ Form1.vs
 # Login
 ![Image of Login](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Login.jpg)
 
+# FORGOT PASSWORD
+![Image of Forget%20Password](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Forget%20Password.jpg)
+
 # Admin_main_page
 ![Image of Admin_main_page](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Admin_main_page.jpg)
 
@@ -260,7 +263,6 @@ Form1.vs
 
 ### 1.1.1	ADD NEW MEMBER:
 * This Module helps the user to add new members Details.
-![Image of Add_Members_Qualification](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Add_Members_Qualification.jpg)
 ![Image of Add_Members](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Add_Members.jpg)
 
 ###  1.1.2	 VIEW ALL MEMBERS:
@@ -282,43 +284,54 @@ Form1.vs
 ###  1.2.2	VIEW EVENTS:
 * This Section provided the user with the information of upcoming Events and helps to user to get ready for event.
 * This updates are shown in the Listbox, total ten upcoming date of events which    note is show in the Listbox.
+![Image of Org_Events](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Org_Events.jpg)
 
 ###  1.2.3	MANAGE EVENTS:
-* This section allows the Administrator to Update and Delete the Events.
+* This section allows the Administrator to Update and Delete the Events. 
 
 ##  1.3	VIEW ACCOUNTANT
 * This sub module allow the Administrator with the knowledge of work done by Accountant.
+![Image of Accountant_Main_Page](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Accountant_Main_Page.jpg)
 
 ###  1.3.1	BALANCE SHEET
 * This provides the Administrator with the information of all the finical transactions that are being carried out by the organization.
+![Image of ](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/ .jpg)
 
 ###  1.3.2	CASH RECORD
 * In this section the Administrator can view all the Money inflow and outflow to and from the organization.
+![Image of ](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/ .jpg)
 
 ##  1.4	VIEW CASHIER
 * In this section the Administrator can view all the operations performed by the Cashier.
+![Image of ](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/ .jpg)
 
 ###  1.4.1 	RECEIPT RECORD 
 * In this section the Administrator can view records of receipts stored in the database.
+![Image of ](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/ .jpg)
 
 #### 1.4.1.1	CONTRIBUTION RECORD
 * This section facilitates the Administrator to view all the list of Contributors and amount, time, date and year regarding the contribution. 
+![Image of ](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/ .jpg)
 
 ####  1.4.1.2	EXPENSES RECORD
 * This section facilities the Administrator to view all the Expenses details.
+![Image of ](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/ .jpg)
 
 ##  1.5	EXPORT REPORTS
 * This sections help the administrator to Exports the required records as an Excel sheet.
+![Image of ](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/ .jpg)
 
 ###  1.5.1	ALL
 * All sub section enables the Administrator to Export all the records (both Contribution Record and Expenses Record)
+![Image of ](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/ .jpg)
 
 ###  1.5.2	CONTRIBUTION RECORD
 * Contribution Record section enables the Administrator to Export the required Contribution Records with full details associated with per contribution. 
+![Image of ](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/ .jpg)
 
 ###  1.5.3	EXPENSES RECORD
 * Expenses Record section enables the Administrator to Export the required Expenses Records with full details associated with per Expenses. 
-
+![Image of ](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/ .jpg)
 
 ##  1.6	HELP
 * The Help section provides the Administrator when he is facing any problem.
@@ -327,11 +340,13 @@ Form1.vs
 * This section allows the administrator set a new password in case he forgets the present password.
 * If the username, secret question and secret answer matches the record in the database then password is changed successfully.
 * If the data enter by the administrator in form is incorrect then, an error message is displayed on the screen.
+![Image of ](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/ .jpg)
 
 ##  1.8	CHANGE PASSWORD
 * This section allows the administrator set a new password in case he wants to.
 * If the username and old password matches the record in the database, then password is changed successfully.
 * If the data enter by the administrator in form is incorrect then, an error message is displayed on the screen.
+![Image of ](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/ .jpg)
 
 ##  1.9	 LOGOUT
 * When the administrator logouts, administrator is asked to either sign in again 
@@ -387,25 +402,32 @@ Form1.vs
 * This section allows the administrator (Cashier) to enter his username and password in the form that is displayed on the screen.
 * If the login data is correct then the various links used for performing various functions are activated.
 * If the data enter by the administrator in login form is incorrect then, an error message is displayed on the screen.
+![Image of Cashier_Main_Page](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Cashier_Main_Page.jpg)
 
 ## 3.1	RECEIPT HANDLER
 * This Section enables the Cashier with the facility of Receipt booking.
 * All the Contributions (money) essential for smoothly running of organization are entered through this system.
+![Image of Recipt_Handler](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Recipt_Handler.jpg)
 
 ### 3.1.1	  CONTRIBUTION RECEIPT
 * This section allows the user to store the information for received contribution from any member.
+![Image of Countribution_Record](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Countribution_Record.jpg)
 
 ### 3.1.2	   EXPENSES RECEIPT
 * This section allows the user of this system to store the information regarding the cash outflow (expenses) from the organization.
-
+![Image of Recipt_Handler](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Recipt_Handler.jpg)
 
 ## 3.2	    EXPORT REPORT
 * This section enable the user to export the whole or required Database Related to the Receipt Records as an excel file.
+![Image of Recipt_Handler](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Recipt_Handler.jpg)
 
 ### 3.2.1	  ALL RECORDS
 * This section enables the user to export all the receipt related records (both Contribution Record and Expenses Record)
+![Image of Recipt_Handler](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Recipt_Handler.jpg)
+
 ### 3.2.2	CONTRIBUTION RECORD
 * Contribution Record section enables the Cashier to Export the required Contribution Records with full details associated with per contribution. 
+
 ### 3.2.3	EXPENSES RECORD
 * Expenses Record section enables the Administrator to Export the required Expenses Records with full details associated with per Expenses. 
 
