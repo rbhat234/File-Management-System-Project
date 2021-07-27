@@ -235,19 +235,25 @@ Form1.vs
 	    Public p As Integer
 	    Public con As New OleDbConnection("Provider=Microsoft.Jet.OLEDB.4.0; Data source=YSS_Dtb.accdb")
 	End Module
-####Splash Screen
+	
+#Splash Screen
+
 ![Image of SPLASHSCREEN](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/YSSSPLASH.jpg)
 
-####Home Page
+#Home Page
+
 ![Image of Home Page](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Home%20Page.jpg)
 
-####SignUp
+#SignUp
+
 ![Image of SignUp](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/SignUp.jpg)
 
-####Login
+#Login
+
 ![Image of Login](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Login.jpg)
 
-####Admin_main_page
+#Admin_main_page
+
 ![Image of Admin_main_page](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Admin_main_page.jpg)
 
 
