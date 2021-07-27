@@ -96,8 +96,6 @@ The Y.S.S Management System is based on automation of the information which prov
 				 1.1.4.2.3	EXPENSES RECORD
 
 	 1.2	FORGOT PASSWORD
-	 1.3	CHANGE PASSWORD
-	 1.4	LOGOUT
 
 ## 2.	 ACCOUNTANT LOGIN
 	 2.1	BALANCE SHEET
@@ -240,9 +238,6 @@ Form1.vs
 # Login
 ![Image of Login](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Login.jpg)
 
-# FORGOT PASSWORD
-![Image of Forget%20Password](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Forget%20Password.jpg)
-
 # Admin_main_page
 ![Image of Admin_main_page](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Admin_main_page.jpg)
 
@@ -272,6 +267,7 @@ Form1.vs
 
 ###  1.2.1	ADD EVENTS:
 *  This Modules helps the Administrator to add new events by selecting the event date from calendar and adding a descriptive note to that date.
+
 ![Image of Add_Event](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Add_Event.jpg)
 
 ###  1.2.2	VIEW EVENTS:
@@ -326,26 +322,15 @@ Form1.vs
 * If the data enter by the administrator in form is incorrect then, an error message is displayed on the screen.
 ![Image of Forget%20Password](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Forget%20Password.jpg)
 
-##  1.8	CHANGE PASSWORD
-* This section allows the administrator set a new password in case he wants to.
-* If the username and old password matches the record in the database, then password is changed successfully.
-* If the data enter by the administrator in form is incorrect then, an error message is displayed on the screen.
-![Image of Forget%20Password](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Forget%20Password.jpg)
-
-##  1.9	 LOGOUT
-* When the administrator logouts, administrator is asked to either sign in again 
-     or exit the system.
-
-##  1.10  EXIT
-* This section helps the administrator to close the current module and go back to main form
-
 # 2.	ACCOUNTANT LOGIN
 * This section allows the administrator (Accountant) to enter his username and password in the form that is displayed on the screen.
 * If the login data is correct then the various links used for performing various functions are activated.
 * If the data enter by the administrator in login form is incorrect then, an error message is displayed on the screen.
+![Image of Accountant_Main_Page](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Accountant_Main_Page.jpg)
 
 ## 2.1	BALANCE SHEET:
 * This provides the accountant with the information of all the finical transactions that are being carried out by the organization.
+![Image of Balancesheet](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Balancesheet.jpg)
 
 ## 2.2	CASH RECORD
 * This section provides the user cash related record.
@@ -403,18 +388,6 @@ Form1.vs
 * If the username, secret question and secret answer matches the record in the database then password is changed successfully.
 * If the data enter by the administrator in form is incorrect then, an error message is displayed on the screen.
 ![Image of Forget%20Password](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Forget%20Password.jpg)
-
-## 3.4	CHANGE PASSWORD
-* This section allows the Cashier set a new password in case he wants to.
-* If the username and old password matches the record in the database, then  password is changed successfully.
-* If the data enter by the administrator in form is incorrect then, an error message is displayed on the screen
-![Image of Forget%20Password](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Forget%20Password.jpg)
-
-## 3.5 	LOGOUT
-* When the administrator (Cashier) logouts, administrator is asked to either sign in again or exit the system.
-
-## 3.6  EXIT
-* This section helps the administrator to close the current module and go back to main form
 
 # SYSTEM REQIREMENTS
 The minimum hardware and software used for the development of the software is as under:
