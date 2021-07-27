@@ -279,6 +279,7 @@ Form1.vs
 
 ###  1.2.1	ADD EVENTS:
 *  This Modules helps the Administrator to add new events by selecting the event date from calendar and adding a descriptive note to that date.
+
 ![Image of Add_Event](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Add_Event.jpg)
 
 ###  1.2.2	VIEW EVENTS:
