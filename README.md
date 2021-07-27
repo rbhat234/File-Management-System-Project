@@ -239,7 +239,7 @@ Form1.vs
 ![Image of SPLASHSCREEN](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/YSSSPLASH.jpg)
 
 ####Home Page
-![Image of Home Page](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Home Page.jpg)
+![Image of Home Page](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Home%20Page.jpg)
 
 ####SignUp
 ![Image of SignUp](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/SignUp.jpg)
