@@ -238,8 +238,8 @@ Form1.vs
 	    Public con As New OleDbConnection("Provider=Microsoft.Jet.OLEDB.4.0; Data source=YSS_Dtb.accdb")
 	End Module
 	
-##
-(https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Admin_main_page)
+##Admin_main_page
+![Image of Admin_main_page](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Admin_main_page)
 
 
 
