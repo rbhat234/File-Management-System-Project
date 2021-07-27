@@ -136,8 +136,6 @@ The Y.S.S Management System is based on automation of the information which prov
 ## DESCRIPTION OF MODULES:
 
 ### 1.	ADMINISTRATOR LOGIN:
-IMAGE	
-![Image of SPLASHSCREEN](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/YSSSPLASH.jpg)
 * This Module allows only the Authorized user to access the Administrators Data.
 * If the login data is correct then the various links used for performing various functions are activated.
 * If the data enter by the administrator in login form is incorrect then, an error Message is displayed on the screen.         
@@ -237,14 +235,26 @@ Form1.vs
 	    Public p As Integer
 	    Public con As New OleDbConnection("Provider=Microsoft.Jet.OLEDB.4.0; Data source=YSS_Dtb.accdb")
 	End Module
-	
-##Admin_main_page
+####Splash Screen
+![Image of SPLASHSCREEN](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/YSSSPLASH.jpg)
+
+####Home Page
+![Image of Home Page](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Home Page.jpg)
+
+####SignUp
+![Image of SignUp](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/SignUp.jpg)
+
+####Login
+![Image of Login](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Login.jpg)
+
+####Admin_main_page
 ![Image of Admin_main_page](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Admin_main_page.jpg)
 
 
 
 ## 1.1	MEMBER RECORD:
 * This module provide the user with the option whether to Add New Record, View all Members or Search and Manage Records.
+![Image of Manage_Records](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Manage_Records.jpg)
 
 ### 1.1.1	ADD NEW MEMBER:
 * This Module helps the user to add new members Details.
