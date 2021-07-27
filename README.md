@@ -73,7 +73,6 @@ The Y.S.S Management System is based on automation of the information which prov
 		 1.1.1		MEMBER RECORD
 			 1.1.1.1	ADD NEW MEMBER
 			 1.1.1.2	VEW ALL MEMBERS
-			 1.1.1.3	MANAGE RECORD
 	
 		 1.1.2	   	EVENT ORGANIZER
 			 1.1.2.1	ADD EVENT
@@ -255,29 +254,30 @@ Form1.vs
 
 ## 1.1	MEMBER RECORD:
 * This module provide the user with the option whether to Add New Record, View all Members or Search and Manage Records.
+* In Manage Records Section, administrator can delete or update the record of the member.
 ![Image of Manage_Records](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Manage_Records.jpg)
-![Image of Add_Members_Qualification](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Add_Members_Qualification.jpg)
+
 
 ### 1.1.1	ADD NEW MEMBER:
 * This Module helps the user to add new members Details.
+![Image of Add_Members_Qualification](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Add_Members_Qualification.jpg)
 ![Image of Add_Members](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Add_Members.jpg)
 
 ###  1.1.2	 VIEW ALL MEMBERS:
 * This Module Retrieves the information of the all members stored in the Database.
+![Image of Manage_Records](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Manage_Records.jpg)
 
 ###  1.1.3	SEARCH:
 * This section allows the administrator to search any member’s record by his name.
 * Administrator can refine his search by providing Unique Id, Name and Email of the member.
 * A customize search is also provided to search the records according to their ease.
 
-###  1.1.4	MANAGE RECORDS:
-* In Manage Records Section, administrator can delete or update the record of the member.
-
 ##  1.2	EVENT ORGANIZER
 * This Module helps the administrator to add new Events, View Events and Manage Events.
 
 ###  1.2.1	ADD EVENTS:
 *  This Modules helps the Administrator to add new events by selecting the event date from calendar and adding a descriptive note to that date.
+![Image of Add_Event](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Add_Event.jpg)
 
 ###  1.2.2	VIEW EVENTS:
 * This Section provided the user with the information of upcoming Events and helps to user to get ready for event.
