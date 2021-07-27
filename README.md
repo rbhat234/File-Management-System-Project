@@ -239,7 +239,7 @@ Form1.vs
 	End Module
 	
 ##Admin_main_page
-![Image of Admin_main_page](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Admin_main_page)
+![Image of Admin_main_page](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Admin_main_page.jpg)
 
 
 
