@@ -236,24 +236,19 @@ Form1.vs
 	    Public con As New OleDbConnection("Provider=Microsoft.Jet.OLEDB.4.0; Data source=YSS_Dtb.accdb")
 	End Module
 	
-#Splash Screen
-
+# Splash Screen
 ![Image of SPLASHSCREEN](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/YSSSPLASH.jpg)
 
-#Home Page
-
+# Home Page
 ![Image of Home Page](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Home%20Page.jpg)
 
-#SignUp
-
+# SignUp
 ![Image of SignUp](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/SignUp.jpg)
 
-#Login
-
+# Login
 ![Image of Login](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Login.jpg)
 
-#Admin_main_page
-
+# Admin_main_page
 ![Image of Admin_main_page](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Admin_main_page.jpg)
 
 
@@ -261,9 +256,11 @@ Form1.vs
 ## 1.1	MEMBER RECORD:
 * This module provide the user with the option whether to Add New Record, View all Members or Search and Manage Records.
 ![Image of Manage_Records](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Manage_Records.jpg)
+![Image of Add_Members_Qualification](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Add_Members_Qualification.jpg)
 
 ### 1.1.1	ADD NEW MEMBER:
 * This Module helps the user to add new members Details.
+![Image of Add_Members](https://github.com/rbhat234/File-Management-System-Project/blob/master/ScreenShots/Add_Members.jpg)
 
 ###  1.1.2	 VIEW ALL MEMBERS:
 * This Module Retrieves the information of the all members stored in the Database.
